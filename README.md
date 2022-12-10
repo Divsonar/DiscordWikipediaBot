@@ -8,8 +8,9 @@ https://discordpy.readthedocs.io/en/stable/discord.html#discord-intro <br>
 <h2> Program Features </h2>
 • Instant Discord Startup  <br>
 • Wikipedia API Integration <br>
+• Works in all Channels of your server <br>
 • Text Result Cleanup <br>
 • Top 10 Most Relevant Results <br>
 • Wikipedia Summary of Most Relevant Search <br>
 <h2> Program Usage </h2>
-• !wiki "<search_query>" <br>
+• !wiki (search_query) <br>
