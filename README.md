@@ -3,7 +3,7 @@ A simple Wikipedia Bot for Discord.
 <h2> Installation Procedure </h2> 
 • After downloading bot.py and key.py, insert your bot token into key.py. <br>
 • You can find and create a bot token with this 
-[I'm an inline-style link](https://www.google.com)
+<a src="https://discordpy.readthedocs.io/en/stable/discord.html#discord-intro">Hi</a>
 [Guide](https://discordpy.readthedocs.io/en/stable/discord.html#discord-intro "hi") <br>
 • Run bot.py to begin. <br>
 <h2> Program Features </h2>
